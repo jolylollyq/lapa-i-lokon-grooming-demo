@@ -172,7 +172,7 @@ function App() {
     <header className="nav">
       <a href="#top" className="brand"><span className="brand-mark">✦</span><span>Лапа и Локон</span></a>
       <nav className="links" aria-label="Основная навигация"><a href="#care">Уход</a><a href="#gallery">Галерея</a><a href="#prices">Цены</a><a href="#visit">Контакты</a></nav>
-      <a href="#contact" className="button nav-button">Выбрать время <span>↗</span></a>
+      <a href="#contact" className="button nav-button">Оставить заявку <span>↗</span></a>
     </header>
     <main id="top">
       <section className="hero">
@@ -180,7 +180,7 @@ function App() {
           <div className="eyebrow"><span className="live-dot"/> ГРУМИНГ-СТУДИЯ · НИЖНИЙ НОВГОРОД</div>
           <h1>Груминг<br/>для кошек<br/><span className="accent">и собак</span></h1>
           <p>Бережный уход в спокойной студии. Подберём процедуру по шерсти, характеру и самочувствию питомца.</p>
-          <div className="actions"><a className="button" href="#contact">Подобрать уход <span>→</span></a><a className="button light" href="#gallery">Наши гости</a></div>
+          <div className="actions"><a className="button" href="#contact">Оставить заявку <span>→</span></a><a className="button light" href="#gallery">Наши гости</a></div>
           <a className="microcopy" href="#visit">Нижний Новгород, ул. Можжевеловая, 14 · Вт–Вс, 10:00–20:00 ↘</a>
         </div>
         <div className="hero-art" data-reveal="right">
